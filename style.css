@@ -72,8 +72,8 @@ input {
   transform: scale(1);
 }
 #intro .content .socials a:hover {
-  color: #ccf;
-  border: 1px solid #ccf;
+  color: rgb(255, 255, 255);
+  border: 1px solid rgb(255, 255, 255);
   transform: scale(1.5);
 }
 #about 
@@ -84,5 +84,5 @@ section h2 {
   text-align: center;
   line-height: 1;
   padding-bottom: 10px;
-  border-bottom: 2px solid #ccf;
+  border-bottom: 2px solid rgb(255, 255, 255);
 }
